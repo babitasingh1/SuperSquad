@@ -23,7 +23,7 @@ You will also see any lint errors in the console.
 
 ## Link in Netlify
 
-https://5fa86ac8e9ded31041574492--superherosquad.netlify.app/
+https://superherosquad.netlify.app/
 
 ### Areas of Improvement
 
